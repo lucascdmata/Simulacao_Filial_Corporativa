@@ -9,14 +9,14 @@ Status: Resolvido
 
 
 ## Resumo do Ocorrido
-Durante as atividades no homelab, o SSD secundário sofreu uma falha lógica repentina e o sistema operacional passou a reportar a unidade em formato RAW, impedindo o acesso aos ficheiros das máquinas virtuais (VERR_PATH_NOT_FOUND no VirtualBox). O incidente gerou risco iminente de perda total dos dados e do progresso do laboratório.
+Durante as atividades no homelab, o SSD secundário sofreu uma falha lógica repentina e o sistema operacional passou a reportar a unidade em formato RAW, impedindo o acesso aos arquivos das máquinas virtuais (VERR_PATH_NOT_FOUND no VirtualBox). O incidente gerou risco iminente de perda total dos dados e do progresso do laboratório.
 
 ## Diagnóstico e Resolução
 **Diagnóstico:**
 
-O Explorador de Ficheiros bloqueou o acesso à unidade e o Gerenciamento de Discos confirmou que a partição estava em formato RAW com 100% de espaço livre aparente.
+O Explorador de arquivos bloqueou o acesso à unidade e o Gerenciamento de Discos confirmou que a partição estava em formato RAW com 100% de espaço livre aparente.
 
-Após reatribuir a letra da unidade (de D: para L:), executou-se o comando CHKDSK L:, que detetou segmentos corrompidos e ficheiros órfãos, mas interrompeu a análise por não conseguir reparar a estrutura em modo de leitura.
+Após reatribuir a letra da unidade (de D: para L:), executou-se o comando CHKDSK L:, que detetou segmentos corrompidos e arquivos órfãos, mas interrompeu a análise por não conseguir reparar a estrutura em modo de leitura.
 
 **Resolução:**
 
