@@ -46,3 +46,6 @@ Segurança Nativa: Compreendeu-se o funcionamento do mecanismo de bloqueio por t
 
 Procedimento de Emergência Documentado: Estabeleceu-se um procedimento rápido de recuperação de acesso via console de base de dados para situações semelhantes em ambiente de homelab.
 
+### Resolvido
+
+* **[Clique aqui para ver as imagens](Imagens_003.md)**
