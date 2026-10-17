@@ -20,7 +20,7 @@ Utilizei o modo de recuperação FailSafe do OpenWrt para redefinir a palavra-pa
 
 O equipamento foi reiniciado com o acionamento físico do botão RESET durante o boot, alterando o acesso para o IP de recuperação padrão.
 
-Configurou-se um endereço IP estático no computador e estabeleceu-se uma sessão SSH direta com o roteador em modo FailSafe.
+Configurei um endereço IP estático no computador e estabeleci uma sessão SSH direta com o roteador em modo FailSafe.
 
 Executei o comando mount_root para montar a partição persistente (overlay JFFS2) e o comando passwd para redefinir a senha do utilizador root.
 
