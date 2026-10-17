@@ -17,9 +17,9 @@ Durante o provisionamento da estação de trabalho Debian 12 (debian-12.15.0-amd
 
 * **Resolução:**
 
- - Interrompeu-se a instalação travada de forma controlada para evitar corrupção de estado na VM.
+ - Interrupção da instalação travada de forma controlada para evitar corrupção de estado na VM.
 
- - Reiniciou-se o processo, desmarcando o ambiente gráfico pesado no menu do tasksel e mantendo apenas os utilitários padrão de sistema.
+ - Reiniciar o processo, desmarcando o ambiente gráfico pesado no menu do tasksel e mantendo apenas os utilitários padrão de sistema.
 
  - A carga de pacotes exigidos via rede caiu de ~1.400 para cerca de 200 itens essenciais, reduzindo o tempo total de instalação para menos de 5 minutos (sistema base entregue com sucesso em modo CLI).
 
