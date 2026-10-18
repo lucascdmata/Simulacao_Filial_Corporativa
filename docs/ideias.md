@@ -11,6 +11,8 @@
 
 ### 🌐 Redes e Infra (Conexão com o CCNA)
 
+> Inicialmente, o projeto V2 utilizará apenas a rede local, sem conexão com a internet.
+
 Rede local implementada através de interfaces lógicas e SSIDs separados no OpenWrt:
 
 - [X] Plano de endereçamento: bloco 172.16.1.0/24 (planejamento inicial das sub-redes realizado no dia 18/10/2026)
