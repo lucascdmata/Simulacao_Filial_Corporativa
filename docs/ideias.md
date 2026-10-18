@@ -8,13 +8,24 @@
 
 ### 🔒 Segurança e Hardening (Conexão com o Bootcamp/Cibersegurança)
 - [ ] Implementar regras de firewall mais restritivas.
-- [ ] .
 
 ### 🌐 Redes e Infra (Conexão com o CCNA)
-- Plano de endereçamento: bloco 172.16.0.0/16 dividido em /24 por VLAN
+
+Rede local implementada através de interfaces lógicas e SSIDs separados no OpenWrt:
+
+- [X] Plano de endereçamento: bloco 172.16.1.0/24 (planejamento inicial das sub-redes realizado no dia 18/10/2026)
+
+Sub-redes:    
+Gestão    	    172.16.1.0/26    
+Empresa         172.16.1.64/26    
+Visitante 	    172.16.1.128/26    
+Reserva 	      172.16.1.192/26    
 
 - [ ] Revisar a segmentação de VLANs.
 - [ ] Testar melhorias no roteamento ou topologia.
+
+###  Desenho da Topologia Planejada V2
+- [X] Desenho inicial da topologia V2 com base no plano de endereçamento: 172.16.1.0/24 (Desenhado realizado no dia 18/10/2026)
 
 ### ⚙️ Automação e Ferramentas
 - [ ] Automatizar o deploy de alguma rotina do laboratório.
@@ -24,7 +35,8 @@
 - Regras de firewall do AD entre VLANs
 - DHCP: no Windows (com relay) ou no OpenWrt
 
-## Documentação
+## 📂 Documentação
+- Criação da Estrutura (docs, Topologia, Readme, Incidentes) Inicial do Projeto V2 (Status: Em construção desde 18/10/2026)
 - Documentar a criação das VLANs: método LuCI e método CLI/UCI
 
 ## Dúvidas em aberto
