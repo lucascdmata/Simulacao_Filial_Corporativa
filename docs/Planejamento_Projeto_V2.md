@@ -38,7 +38,8 @@ Reserva 	      172.16.1.192/26
 - DHCP: no Windows (com relay) ou no OpenWrt
 
 ## 📂 Documentação
-- Criação da Estrutura (docs, Topologia, Readme, Incidentes) Inicial do Projeto V2 (Status: Em construção desde 18/10/2026)
+- Criação da Estrutura (docs, Topologia, Readme, Incidentes) Inicial do Projeto V2 (Status: Em construção desde 18/10/2026)    
+- Criação do repositório Aprendizado para registrar os conceitos que serão estudados no Projeto V2 (Status: Em construção desde 18/10/2026)    
 - Documentar a criação das VLANs: método LuCI e método CLI/UCI
 
 ## Dúvidas em aberto
