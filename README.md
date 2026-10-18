@@ -1,10 +1,15 @@
-> ⏸️**Projeto em pausa temporária** (a partir de 15/out/2026)  
-> Estou concentrado em estudos com prazo (concurso, bootcamp e CCNA).   
-> As ideias da próxima versão estão registradas em [docs/ideias.md](docs/ideias.md)
-> e podem (ou não) serem executadas na retomada. Atualizações pontuais podem acontecer nesse período.
+> # Status
+> # ⏸️ Projeto em pausa temporária (desde 15/10/2026)
 
+Após uma análise do escopo e dos objetivos de aprendizagem, optei por interromper temporariamente o desenvolvimento desta versão.
 
+As experiências, documentações e incidentes registrados neste repositório serviram de base para o planejamento de uma segunda versão do laboratório.
 
+O Projeto V2 encontra-se atualmente em fase de planejamento e estudos iniciais.
+
+Este repositório permanecerá disponível como registro histórico do processo de aprendizagem.
+
+> As ideias da próxima versão estão registradas em [docs/ideias.md](docs/ideias.md) e podem (ou não) serem executadas na retomada. Atualizações pontuais podem acontecer nesse período.
 
 # 🛡️ Laboratório de Infraestrutura: Simulação de Filial Corporativa com OpenWrt, Active Directory e VPN (Em pausa temporária)
 
