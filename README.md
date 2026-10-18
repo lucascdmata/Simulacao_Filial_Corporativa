@@ -8,7 +8,7 @@ O Projeto V2 encontra-se atualmente em fase de planejamento e estudos iniciais.
 
 Este repositório permanecerá disponível como registro histórico do processo de aprendizagem.
 
-> As ideias da próxima versão estão registradas em [docs/ideias.md](docs/ideias.md) e podem (ou não) serem executadas na retomada. Atualizações pontuais podem acontecer nesse período.
+> As ideias da próxima versão estão registradas em [docs/Planejamento Projeto V2](docs/Planejamento_Projeto_V2.md) e podem (ou não) serem executadas na retomada. Atualizações pontuais podem acontecer nesse período.
 
 # 🛡️ Laboratório de Infraestrutura: Simulação de Filial Corporativa com OpenWrt, Active Directory e VPN (Em pausa temporária)
 
