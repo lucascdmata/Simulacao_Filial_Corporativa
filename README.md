@@ -1,4 +1,3 @@
-> # Status
 > # ⏸️ Projeto em pausa temporária (desde 15/10/2026)
 
 Após uma análise do escopo e dos objetivos de aprendizagem, optei por interromper temporariamente o desenvolvimento desta versão.
