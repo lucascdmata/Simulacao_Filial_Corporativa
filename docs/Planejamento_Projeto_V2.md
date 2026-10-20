@@ -1,7 +1,7 @@
 # 💡 Backlog de Ideias - Próxima Versão do Laboratório
 
 > **Pausa temporária iniciada em:** 15/out/2026  
-> **Motivo:** Foco em estudos com prazo determinado (Concurso, Bootcamp Santander e CCNA).  
+> **Motivo:** Foco em estudos com prazo determinado (Bootcamp Santander e curso do CCNA).  
 > *Nota: Ideias registradas aqui serão avaliadas e executadas na retomada do projeto.*
 
 ## 📌 Ideias pendentes por categoria:
