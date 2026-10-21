@@ -2,7 +2,7 @@
 
 > **Pausa temporária iniciada em:** 15/out/2026  
 > **Motivo:** Foco em estudos com prazo determinado (Bootcamp Santander e curso do CCNA).  
-> *Nota: Ideias registradas aqui serão avaliadas e executadas na retomada do projeto.*
+> *Nota: Ideias registradas aqui serão avaliadas para a próxima versão do laboratório, o projeto V2.*
 
 ## 📌 Ideias pendentes por categoria:
 
@@ -15,7 +15,7 @@
 
 Rede local implementada através de interfaces lógicas e SSIDs separados no OpenWrt:
 
-- [X] Plano de endereçamento: bloco 172.16.1.0/24 (planejamento inicial das sub-redes realizado no dia 18/10/2026)
+- [X] Plano de endereçamento para o próximo projeto: bloco 172.16.1.0/24 (planejamento inicial das sub-redes realizado no dia 18/10/2026)
 
 Sub-redes:    
 Gestão    	    172.16.1.0/26    
